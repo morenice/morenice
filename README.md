@@ -20,6 +20,8 @@ Hi There👋
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-mongodb-000?&logo=mongodb)
 ![Elastic Search](https://img.shields.io/badge/-elasticsearch-000?&logo=elasticsearch)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-000?&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-kafka-000?&logo=kafka)
 
 
 ![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring)
