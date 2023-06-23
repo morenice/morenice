@@ -26,7 +26,7 @@ Hi There👋
 
 
 ![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Spring Webflux](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Webflux](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
