@@ -4,6 +4,7 @@ Hi There👋
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -25,13 +26,16 @@ Hi There👋
 
 
 ![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Webflux](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
-### Recently interesting
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
+
+### Recently interesting
+Virtual Thread
 
 - - -
 
