@@ -10,11 +10,12 @@ Hi There👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+
 ### Technologies
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 
 ![MySQL](https://img.shields.io/badge/-mysql-000?&logo=mysql)
@@ -25,8 +26,8 @@ Hi There👋
 ![Kafka](https://img.shields.io/badge/-kafka-000?&logo=kafka)
 
 
-![Spring Boot](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Webflux](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?&logo=Spring)
+![Spring Webflux](https://img.shields.io/badge/-Spring_Webflux-000?&logo=Spring)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
@@ -35,7 +36,7 @@ Hi There👋
 
 
 ### Recently interesting
-Virtual Thread
+* Virtual Thread
 
 - - -
 
